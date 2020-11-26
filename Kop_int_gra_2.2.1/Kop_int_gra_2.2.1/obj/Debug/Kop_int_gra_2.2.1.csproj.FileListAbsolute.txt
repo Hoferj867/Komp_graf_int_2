@@ -1,0 +1,9 @@
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\bin\Debug\Kop_int_gra_2.2.1.exe.config
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\bin\Debug\Kop_int_gra_2.2.1.exe
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\bin\Debug\Kop_int_gra_2.2.1.pdb
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\obj\Debug\Kop_int_gra_2.2.1.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\obj\Debug\Kop_int_gra_2._2._1.Form1.resources
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\obj\Debug\Kop_int_gra_2._2._1.Properties.Resources.resources
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\obj\Debug\Kop_int_gra_2.2.1.csproj.GenerateResource.cache
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\obj\Debug\Kop_int_gra_2.2.1.exe
+C:\Users\Сашок\source\repos\Kop_int_gra_2.2.1\Kop_int_gra_2.2.1\obj\Debug\Kop_int_gra_2.2.1.pdb
